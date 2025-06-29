@@ -633,3 +633,8 @@ This structure gives you everything needed for sophisticated recommendations inc
   }
 }
 ```
+
+---
+# Data pipline Architect
+## Exctracting data architect
+![alt text](image.png)
