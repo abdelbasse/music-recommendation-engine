@@ -1,4 +1,4 @@
-# How the Music Industry Actually Works 🎵
+**processed**# How the Music Industry Actually Works 🎵
 
 ## 1. ARTIST TYPES & RELATIONSHIPS
 
